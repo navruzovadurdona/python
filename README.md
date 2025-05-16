@@ -59,16 +59,6 @@ Packages
 No packages published
 Languages
 
-    Python 100.0% 
 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
 
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact
 
